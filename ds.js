@@ -8,7 +8,7 @@
 //BigInt
 //Symbol
 
-let age =22;
+let age =21;
 let name= "nitika";
 console.log(typeof(age));
 console.log(typeof(name));
