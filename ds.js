@@ -9,7 +9,7 @@
 //Symbol
 
 let age =22;
-let name= "Aakash";
+let name= "nitika";
 console.log(typeof(age));
 console.log(typeof(name));
 console.log(typeof "hello")
