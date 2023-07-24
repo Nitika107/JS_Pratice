@@ -1,10 +1,10 @@
 const key= "email";
 const person={
-    name:'aakash',
-    age:22,
+    name:'nitika',
+    age:21,
     "person hobbies":["guitar","sleeping"]
 }
 
 console.log(person["person hobbies"]);
-person[key]="aakash@gmail.com";
+person[key]="nitika@gmail.com";
 console.log(person);
