@@ -6,5 +6,5 @@ const person={
 }
 
 console.log(person["person hobbies"]);
-person[key]="nitika@gmail.com";
+person[key]="rrnitika@gmail.com";
 console.log(person);
