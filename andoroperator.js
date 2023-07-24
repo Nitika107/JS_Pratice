@@ -1,8 +1,8 @@
-let firstName= "Aakash";
+let firstName= "Nitika";
 let ages=22;
 
-if(firstName[0]=="A" && ages<18){
-    console.log("your name starts with A");
+if(firstName[0]=="N" && ages<18){
+    console.log("your name starts with N");
 }
 else {
     console.log("inside else");
