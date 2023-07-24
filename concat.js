@@ -1,5 +1,5 @@
-let string1="aakash";
-let string2="singh";
+let string1="nitika";
+let string2="rana";
 let fullname=string1+" "+string2;
 console.log(fullname); // aakash singh
 
